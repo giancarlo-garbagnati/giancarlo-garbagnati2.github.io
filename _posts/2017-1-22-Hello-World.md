@@ -7,9 +7,13 @@ Hi, y'all. This blog should chronicle my 12 weeks at Metis SF. We'll cover some 
 
 My next post should cover my recent foray into New York's MTA turnstile data (week 1 of Metis).
 
+
 <!-- more -->
 
-Oh, who am I? 
+
+
+Oh, and who am I? 
+
 My name is Giancarlo Garbagnati. I hail initially from San Jose, about an hour south of where I'm currently lodged in SF. Spent 10(!?) years in San Diego for school and work (I miss the weather and the Mexican food), then finally back in the bay a little over a year ago.
 
 The blog title 'wranglase' is a reflection of my past experience (molecular biology) and my current endeavours (data science).
