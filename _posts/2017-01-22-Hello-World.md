@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: print('Hello World')
 ---
 
 Hi, y'all. This blog should chronicle my 12 weeks at Metis SF. We'll cover some of the projects I'll work on throughout that time, some of the tips and tricks I'll pick up, and other interesting yet pertinent stuff. I'll try to keep my politics out of this (though this current political atmosphere is making it increasingly difficult to stay mum).  
