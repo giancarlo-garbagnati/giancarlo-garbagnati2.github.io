@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+From the Bay. Escaped to the beach for a decade, then now I'm back in the Bay.
+
 Currently studying data science at Metis SF.
 
 ### More Information
