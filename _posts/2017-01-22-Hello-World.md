@@ -7,4 +7,4 @@ Hi, y'all. This blog should chronicle my 12 weeks at Metis SF. We'll cover some 
 
 <!-- more -->
 
-No, that's it for now. My next post should cover my recent foray into New York's MTA turnstile data (week 1 of Metis).   
+That's it for now. My next post should cover my recent foray into New York's MTA turnstile data (week 1 of Metis).   
