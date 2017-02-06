@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Video Soup
-=======
 ---
 
 I recently tried my hand at building a web scraper to gather movie data and using a basic model to predict video sales. Let's find out how that went!
