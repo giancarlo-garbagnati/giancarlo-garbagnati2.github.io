@@ -1,10 +1,7 @@
 ---
 layout: post
-<<<<<<< HEAD:_posts/2017-01-20-Hello-World.md
 title: Video Soup
 =======
-title: Video Soup
->>>>>>> 6da297c7b2d7c4a5728eadf08861238ab4867c99:_posts/2017-01-22-Hello-World.md
 ---
 
 I recently tried my hand at building a web scraper to gather movie data and using a basic model to predict video sales. Let's find out how that went!
